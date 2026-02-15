@@ -1,3 +1,7 @@
+## v1.1.7
+- Update for 2.2081
+## v1.1.6
+- Minor fix release
 ## v1.1.5
 - Added an events API
 ## v1.1.4
