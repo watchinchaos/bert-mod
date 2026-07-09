@@ -7,13 +7,13 @@
 		"ios": "2.2081"
 	},
 	"version": "v1.1.8",
-	"id": "capeling.soggy-mod",
-	"name": "Soggy Mod",
+	"id": "ohio.world",
+	"name": "Bert Mod",
 	"developers": [
 		"Capeling",
 		"availax"
 	],
-	"description": "Sog your game with the Soggy Mod!",
+	"description": "bert mod",
 	"resources": {
 		"spritesheets": {
 			"SoggySheet": [
